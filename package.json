@@ -1,6 +1,6 @@
 {
   "name": "@ayobuenavista/test",
-  "version": "2.0.0-sol5",
+  "version": "3.0.0-sol5",
   "description": "",
   "publishConfig": {
     "access": "public"
