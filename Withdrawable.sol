@@ -4,7 +4,7 @@ import "./IERC20.sol";
 import "./PermissionGroups.sol";
 
 
-contract Withdrawable2 is PermissionGroups {
+contract Withdrawable is PermissionGroups {
     constructor(address _admin) public PermissionGroups(_admin) {}
 
     event TokenWithdraw(IERC20 token, uint256 amount, address sendTo);
