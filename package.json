@@ -1,0 +1,21 @@
+{
+  "name": "@ayobuenavista/test",
+  "version": "2.0.0",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayobuenavista/kyber-lib.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ayobuenavista/kyber-lib/issues"
+  },
+  "homepage": "https://github.com/ayobuenavista/kyber-lib#readme"
+}
