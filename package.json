@@ -5,6 +5,9 @@
   "directories": {
     "test": "test"
   },
+  "files": [
+    "./contracts/*.sol"
+  ],
   "scripts": {
     "test": "./test.sh",
     "t": "./test.sh",
